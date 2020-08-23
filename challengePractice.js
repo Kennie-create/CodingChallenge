@@ -25,6 +25,11 @@ function charFreq(message) {
     )
 }
 
+/*
+Write a function that calculates which of 
+these states had the greatest number of registered voters in 2020
+*/
+
 
 const data = [
   ["Arizona",2016,"Jan",25852 ],
